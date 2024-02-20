@@ -4,7 +4,7 @@
 
 Diptera-VR is a novel Virtual Reality application  designed to simulate the  research activities typically conducted in Systematics and Phylogeny laboratories.
 
-This  project was initiated as part of an outreach program by the [Federal University of ABC](www.ufabc.edu.br), aiming to bridge the gap between complex scientific research and the public through immersive technology.
+This  project was initiated as part of an outreach project at the [Federal University of ABC](www.ufabc.edu.br), aiming to bridge the gap between complex scientific research and the public through immersive technology.
 
 ---
 
